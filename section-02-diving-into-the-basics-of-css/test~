@@ -1,0 +1,9 @@
+Improvements made on Phishing infrastructure:
+- new template brand goodies
+- localized james resolution page
+- localized the quiz template 
+- improved the french translations for the quiz template
+- I could write an article that explains how any template can be localized
+- created a repository for storing the templates
+- create a poc for drive by smuggler with working backend and payloads for amd64 and arm
+- ! low hanging fruit: change process so that custom phishings are anonymized and screenshots are added to the scenarios presentation (that Andi started)
