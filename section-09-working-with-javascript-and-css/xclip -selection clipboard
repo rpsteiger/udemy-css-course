@@ -1,0 +1,6 @@
+for (let i = 0; i < modalYesNoButtons.length; i++) {
+	modalYesNoButtons[i].addEventListener('click', function(){
+		modal.style.display = 'none'
+		backdrop.style.display = 'none'
+	})
+}
